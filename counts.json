@@ -1,0 +1,102 @@
+{
+    "hao": {
+        "unique_counts": 2596,
+        "wikidata_property_counts": 5,
+        "wikipedia_xrefs_counts": 0
+    },
+    "go": {
+        "unique_counts": 46533,
+        "wikidata_property_counts": 43560,
+        "wikipedia_xrefs_counts": 739
+    },
+    "vo": {
+        "unique_counts": 7200,
+        "wikidata_property_counts": 65,
+        "wikipedia_xrefs_counts": 0
+    },
+    "cl": {
+        "unique_counts": 2794,
+        "wikidata_property_counts": 2618,
+        "wikipedia_xrefs_counts": 7
+    },
+    "uberon": {
+        "unique_counts": 14748,
+        "wikidata_property_counts": 6343,
+        "wikipedia_xrefs_counts": 3515
+    },
+    "doid": {
+        "unique_counts": 11373,
+        "wikidata_property_counts": 10824,
+        "wikipedia_xrefs_counts": 0
+    },
+    "symp": {
+        "unique_counts": 894,
+        "wikidata_property_counts": 838,
+        "wikipedia_xrefs_counts": 0
+    },
+    "bto": {
+        "unique_counts": 6569,
+        "wikidata_property_counts": 229,
+        "wikipedia_xrefs_counts": 0
+    },
+    "gsso": {
+        "unique_counts": 12782,
+        "wikidata_property_counts": 294,
+        "wikipedia_xrefs_counts": 4623
+    },
+    "xao": {
+        "unique_counts": 1727,
+        "wikidata_property_counts": 273,
+        "wikipedia_xrefs_counts": 0
+    },
+    "envo": {
+        "unique_counts": 3888,
+        "wikidata_property_counts": 814,
+        "wikipedia_xrefs_counts": 478
+    },
+    "hp": {
+        "unique_counts": 17668,
+        "wikidata_property_counts": 1806,
+        "wikipedia_xrefs_counts": 0
+    },
+    "clo": {
+        "unique_counts": 39077,
+        "wikidata_property_counts": 32614,
+        "wikipedia_xrefs_counts": 0
+    },
+    "pr": {
+        "unique_counts": 226975,
+        "wikidata_property_counts": 9,
+        "wikipedia_xrefs_counts": 0
+    },
+    "foodon": {
+        "unique_counts": 23135,
+        "wikidata_property_counts": 55,
+        "wikipedia_xrefs_counts": 3
+    },
+    "eco": {
+        "unique_counts": 2040,
+        "wikidata_property_counts": 12,
+        "wikipedia_xrefs_counts": 0
+    },
+    "so": {
+        "unique_counts": 2632,
+        "wikidata_property_counts": 176,
+        "wikipedia_xrefs_counts": 236
+    },
+    "spd": {
+        "unique_counts": 832,
+        "wikidata_property_counts": 15,
+        "wikipedia_xrefs_counts": 0
+    },
+    "ceph": {
+        "unique_counts": 321,
+        "wikidata_property_counts": 5,
+        "wikipedia_xrefs_counts": 1
+    },
+    "mondo": {
+        "unique_counts": 23752,
+        "wikidata_property_counts": 19505,
+        "wikipedia_xrefs_counts": 84
+    }
+}
